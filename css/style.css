@@ -1,0 +1,43 @@
+.navbar ul li{
+  color: #363958;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+  background-color: #FFF9F4;
+}
+
+#section1{
+  background-color: #FFF9F4;
+  padding-bottom: 150px;
+  font-family: 'Poppins', sans-serif;
+}
+
+#top-side2{
+  padding-left: 100px;
+}
+
+#top-side2 h1{
+  font-size: 75px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.color_name{
+    color: #FA804C;
+}
+
+.color_name2{
+  color: #363958;
+}
+
+#top-side2 p{
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn-primary{
+  background-color: #3949D6 !important;
+}
+
+.btn{
+  padding: 15px 35px !important;
+}
